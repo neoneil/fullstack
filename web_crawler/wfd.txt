@@ -1,0 +1,125 @@
+1.The celebrated theory is still the source of great controversy. #131001
+2.I thought a good architectural structure should be useful, durable and beautiful.#131002 
+3.A group meeting will be held tomorrow in the library conference room. #131003
+4.A person’s educational level is closely associated with their social and economic background.#131005
+5.We can all meet at my office after the lecture. #131006
+6.All industries are a system of inputs, processes, outputs and feedback.#131012 
+7.Economic development needs to be supported by the government.#131014 
+8.All students are expected to attend ten lab sessions per semester. #131016 
+9.Leaving valuable possessions unattended in public place is risky.#131017 
+10.The toughest part of postgraduate education is funding.#131018
+11.Most scientists believe that climate change threatens the lives on earth.#131021 
+12.Although sustainable development is not easy, it is an unavoidable responsibility. #131022 
+13.Animals raised in captivity behave differently than their wild counterparts. #131027 
+14.Students will develop confidence in their ability to think critically. #131033
+15.Certain scientific principles must be learned verbally or by logical deduction.#131038 
+16.Clinical placements in nursing prepare students for professional practice. #131041 
+17.Despite their differences, all forms of life share certain characteristics.#131050 
+18.Economic problems caused a big rise in unemployment. #131052
+19.He landed a job in a very prestigious law firm.#131068
+20.It was hard to anticipate how all the different characters would react.#131087
+21.We are researching the most significant challenges we are facing in our society today. #131090 
+22.Library reference desks hold a lot of materials on academic history. #131091
+23.Most university teaching takes place in lectures and seminars. #131101 
+24.Observers waited nervously and with bated breath for the concert.#131108
+25.Organizational failure is considered from various perspectives in academic literature. #131111 26.The university theater group will be performing in the concert hall. #131114
+27.Packaging is very important to attract the attention of a buyer. #131116 28.Please check the information on the website for the opening times.#131120 29.Radio is a popular form of entertainment throughout the world.#131130
+30.Remember, the prestigious election of student membership has strict eligibility criteria.#131136 31.Review all your sources before drawing any definitive conclusions.#131138
+32.The supposed benefit of space exploration has been frequently questioned.#131142 33.The speaker began by giving an outline of her presentation.#131145
+34.She has made a significant contribution to the field of chemistry.#131146 35.Some departments have their own special book collections#131149
+36.Some students find that true or false questions are harder than short answer questions. #131153 37.Statistical results should be expressed in different ways depending on the circumstances. #131154 38.Students requiring an extension should apply sooner rather than later.#131160
+39.Student concession cards can be obtained by completing an application form. #131164
+40.A bar chart provides a useful means of data comparison. #131173
+41.The archeologist's new discoveries stand out in previously overlooked foundations. #131176 42.The business policy seminar includes an internship with a local firm. #131183
+43.The cafeteria features soup, salads, sandwiches, fish and chicken.#131184 44.The designers will complete the plan later today.#131194
+45.The island is located at the south end of the bay.#131213
+46.The key difference between courses is the kind of assessment.#131214
+47.The library holds a substantial collection of materials on the economic history.#131217 48.The paper challenged many previously accepted theories.#131227
+49.The railway makes long-distance travel possible for everyone.#131231
+50.The results of the study underscored the importance of early detection.#131235 51.The teacher asked the group to commence the task.#131248
+52.The theme of the instrumental work exhibits more of a demure compositional style.#131251 53.Safety glasses should be worn while doing experiments in the lab.#131255
+54.The visiting speaker used to be a lecturer in this department.#131259 
+55.There is clearly a need for further research in this field.#131265 
+56.This class will look at the structure of an essay.#131273
+57. Our laboratory equipment is provided free of charge. #131277 58.Traveling by boat on the river is not possible in winter.#131285 59. It will be extremely beneficial to work together. #131286 60.This project is divided into four main sections. #131288 61.University fees are expected to increase next year.#131291
+62.All students are expected to participate in all class activities. #131294 63.We can work together to achieve higher educational standards.#131295
+64.You will need to purchase an academic gown for the commencement. #131317 65.Your lowest quiz grade has been omitted from the calculations.#131321 66.Speak to your tutor if you require further assistance.#131330
+67.Education and training provide important skills for the labor force. #131334 68.Farming methods across the world have greatly developed recently. #131335 69.Find out how to get resources before your research.#131336
+70.Global connections thrived in academic communities, thanks to social media.#131339 71.Several candidates are qualified as the greatest scientists of all time.#131346 72.Students are advised that the lecture today has been canceled. #131347
+73.There are opportunities to receive grants in most artistic fields. #131351 74.There is a welcome party for all new students for each term.#131353 75.This course considerably emphasizes critical thinking skills.#131357
+76.Those who are considering a career in marketing should attend the talk.#131358 77.Our curriculum covers different aspects of the subject.#131362
+78.Different factors affect the freezing time of water.#131368
+79.All lectures and learning materials can be found on the internet.#131373
+80.New credit cards will soon use fingerprint technology.#131375 81.Statistics is a crucial branch of mathematics.#131378
+82.Collaboration between departments is a feature of successful companies.#131380 83.Geography is generally divided into two main branches, human and physical.#131384
+84.He was constantly looking for ways to bring industry and agriculture closer together.#131385
+85.Law is beneficial to investors by protecting their rights and avoiding any improper actions in the market. #131387
+86.Making mistakes is fine as long as you learn from them. #131388
+87.Many graduates of journalism can get jobs in the communications field.#131389 88.This course provides the opportunity to get valuable industry experience.#131393 89.The ability to work with fellow students cannot be stressed enough.#131401 90.Archeologists discovered tools and other artifacts near the ancient tomb. #131402 91.Essays and assignments are spread out across the academic year.#131403 92.Continuing students will be sent the necessary application forms. #131405 93.Calculators may not be used during the examination. #131407
+94.The elective course introduces engineering students to construction practices and concepts.#131409 95.The economy is now showing the first sign of recovery. #131412
+96.The site is designed to be highly interactive.#131418
+97.University departments carefully monitored articles and other publications by faculty. #131433 98.You should submit your term papers to the general office.#131434
+99.Scientists were unsure when the early men first left Africa. #131462 100.The printers automatically print on both sides of each page.#131471
+101.Some vocational courses at institutions are funded by private enterprises. #131476 102.This book can be borrowed for a maximum of one week.#131477
+103.Blue whales are the largest mammals that have ever lived.#131497
+104.His appointment to the Minister of Culture is seen as a demotion. #131500 105.It takes a long time to walk to university. #131506
+106.As student union members, you can influence and change our university.#131521 107.Many food crops require large amounts of water and fertilizer.#131535
+108.Classical mechanics is sometimes considered as a branch of applied mathematics.#131542 109.This advanced course requires a basic knowledge of economic theory.#131545
+110.New materials and techniques are changing the style of modern architecture.#131547 111.Sea levels are expected to rise during the next century.#131556
+112.Information technology has changed the way we study today.#131571
+113.The very basic feature of computing would be counting and calculating.#131574 
+114.There is an accounting assignment for finance students. #131584 
+115.Philosophy uses logic and reasons to analyze human experiences.#131590 
+116.Field trips are an important part of geography courses.#131591
+117.Practical experiments are an essential part of the chemistry course.#131592 
+118.People have been dependent on using phones in their everyday life. #131605
+119.The digital camera has some advantages over traditional film.#131611 120.The university provides great leisure facilities for students and staff.#131612
+121.Students must attend the safety instruction course before entering the engineering workshop. #131616
+
+
+122.Undergraduates may pursue their specific interests within certificate programs.#131619 123.Air pollution is a serious problem all over the world. #131621
+124.The commissioner will apportion the funds among all the authorities.#131625 125.These three separate research resources are not enough for this assessment.#131631 126.New media journalism is an exciting field of study.#131633
+127.The extent of advertising to children is very much open to debate.#131687 128.The key witnesses to the event have conflicting recollections.#131695
+129.Many universities are continuously expanding the postgraduate education online learning resources. #131700
+130.The very basic definition of computing would be counting and calculating.#131709 131.You will write poetry and plays as well as scientific papers. #131724
+132.The economic predictions turned out to be incorrect. #131735
+133.Summer school programs allow some students to accelerate their studies. #131743 134.Please click on the logo above to enter the site.#131752
+135.The untapped potential of using sun rays is phenomenal. #131782
+136.Students are encouraged to think carefully about their accommodation needs.#131785 137.You will study two core and three optional modules.#131787
+138.Peer review is an essential part of scientific methods. #131788 139.The north campus car park could be closed on Sunday.#131802
+140.We aim to develop a partnership with the government and financial institutions. #131811 141.Lecture outlines are available on the college board and the internal website.#131821 142.The study center in the library has all the latest technologies.#131827
+143.This course places considerable emphasis on critical thinking skills.#131834 144.The poster of this play is hung in the largest lecture theater.#131843
+145.A typical part of the course involves the study of society.#131844 146.Banks charge interest on the money they lent to customers#131852 147.You will be tested by continuous assessments and examinations.#131861
+148.When launching a product, researching and marketing are very crucial.#131862 149.The college operates a system of continuous assessments.#131864 150.Scientists have found all parts of society today.#131866
+151.Novelists write about things that they know about.#131878
+152.Physics is the key subject to understanding the world and the universe.#131879 153.Practical experience is a vital part of legal training. #131885
+154.The new camera can identify your eyes and focus on them.#131896 155.Recession triggers exciting creativity and high rates of public wisdom.#131899 156.Students will focus on reporting news on changing the media world.#131903
+
+第	136	页14/1共 页
+ 
+157.The lecture today will cover all the main reasons for global warming.#131904 158.Three resources are not enough for this assessment.#131910
+159.The other book isn't thorough, but it's more insightful.#131918 160.Many businesses near the campus offer student discounts.#131920
+161.The director of the gallery was grateful for the anonymous donation.#131921 162.Studies showed there is a positive correlation between the two variables.#131922 163.You should have awareness of how the business operates globally.#131923 164.Art is an expression of creative skills and imagination. #131924
+165.Humans use symbolic language to communicate plans and contentions. #131926 166.Building trust is not something that can be achieved overnight.#131927
+167.We have sophisticated ways to study brain actions. #131928
+168.The dance department stages elaborated performances each semester.#131929 169.An architect is required to have problem-solving skills and an eye for design.#131930 170.Mathematics can be applied to various disciplines.#131931
+171.The lecture will take place in the main hall.#131932
+172.Student representatives will be visiting the classes with voting forms.#131933 173.The article exhibits the leisure habits of teenagers in rural areas.#131934 174.To take this course, students should have basic economic knowledge.#131935 175.Read the first section before the next meeting.#131936
+176.Background music can help students concentrate on their studies.#131937 177.Most penguins live in the Southern Atlantic Sea.#131939
+178.Keep your audience in your mind when writing an essay.#131940 179.Studying philosophy can help learners think in new ways.#131941
+180.The university will seek a colossal renovation to the plain empty theater.#131942 181.A wide range of courses covered different aspects in this subject.#131943 182.University fees are a key factor when choosing a course.#131944
+183.Scientists learned through observations and the analysis of human behavior.#131946 184.Crime rates are high because the police phones are difficult to call.#131947
+185.It is not always possible to find patterns in data.#131948 186.Understanding ancient poetry is efficient for the project.#131950 187.The subject was complex and difficult to answer.#131952
+188.In his lifetime, he composed a large number of works. #131953
+189.Online courses enable people to improve their skills while employed.#131954 190.Joining the societies is a great way to meet new people. #131955 191.Students must present a valid identification to enroll in this course.#131956
+192.The lecturer intended to promote a series of thoughts and discussions.#131958 193.The guidelines are due to be updated shortly.#131960
+194.Journalists need to work with a range of technologies.#131961
+195.The instant availability of information has radically changed people's lives.#131963 196.Universities across the United Kingdom welcome applications from all new students.#131964
+
+第	137	页14/1共 页
+ 
+197.We have to reduce the use of plastic materials.#131965
+198.Americans have progressively defined the process of plant growth and reproductive development in quantitative terms.#131966
+199.Newspapers across the country have been reporting stories of the president. #131967 200.Students must clean their hands before attending the engineering workshop.#131968 201.Speak to your tutor if you require further research.#131969
+202.Remember to bring calculators to class next week.#131970
+203.I looked into my closet for something to wear, but I want to find a new favorite.#131971 204.During that time, people had large families as insurance against some children loss.#131972 205.Medical researchers have focused on different causes of diseases and treatments.#131096 206.The rising temperature has led to lower agricultural output.#131951
